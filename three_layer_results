@@ -1,0 +1,105 @@
+[3-layer mlp]
+
+#changing batch_size
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 50 #batch size
+
+  0.8897
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.8882
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 150 #batch size
+
+  0.8931
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 200 #batch size
+
+  0.8908
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 300 #batch size
+
+  0.8915
+
+#changing learning_rate
+  iteration = 1000 #for loop number
+  learn_rate = 0.3 #learning rate
+  batch_size = 100 #batch size
+
+  0.8496
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.8901
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.7 #learning rate
+  batch_size = 100 #batch size
+
+  0.8963
+
+#changing iteration
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.8901
+
+  iteration = 1500 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.8938
+
+  iteration = 2000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.9092
+
+  iteration = 10000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.9328
+
+  iteration = 15000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.9373
+
+  iteration = 20000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.9421
+
+  iteration = 30000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.9391
+
+#changing all
+
+  iteration = 20000 #for loop number
+  learn_rate = 0.7 #learning rate
+  batch_size = 150 #batch size
+
+  0.9367
+
+
+

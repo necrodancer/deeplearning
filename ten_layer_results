@@ -1,0 +1,14 @@
+[10-layer mlp]
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.7226
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.7 #learning rate
+  batch_size = 200 #batch size
+
+  0.8076
+

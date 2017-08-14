@@ -1,0 +1,16 @@
+#tensorflow mnist input
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 10 #batch size
+
+  0.7852
+
+#Refered mnist input
+
+  iteration = 1000 #for loop number
+  learn_rate = 0.5 #learning rate
+  batch_size = 100 #batch size
+
+  0.7162
+
